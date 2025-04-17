@@ -46,3 +46,9 @@ This is a Java-based KBC (Kaun Banega Crorepati)-style quiz game with a Swing GU
    javac -cp .:mysql-connector-java-8.0.xx.jar JavaFrontUpdated.java
    java -cp .:mysql-connector-java-8.0.xx.jar JavaFrontUpdated
 
+
+
+Project by:
+1. Varda Joshi 23BCE10345
+2. Harshita Rathor 23BCE10890
+
